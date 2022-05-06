@@ -1,8 +1,8 @@
-4c53812319d44627d00e612c4b463204 *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
-7c212a6f413b1b09d4408c58274db4e9 *R/PermAlgo-internal.R
-86f32318e7089d1c73920bae2bc3cab7 *R/permalgorithm.R
-fe7bd14fc42dca1bac9b2679e56af4d9 *inst/CITATION
-2e2f7f74eb61b709b462fb86c3091def *man/PermAlgo-internal.Rd
-45b8c5ebdc5c514e2f6d3984ae6ecf85 *man/PermAlgo-package.Rd
-60b0a1d228bd268d98cea8995b37ac0a *man/permalgorithm.Rd
+51499cdafbddff29207d877a4cf18b6b *DESCRIPTION
+92737bea12fb6e8d05dea14ddb839d73 *NAMESPACE
+3812f0eeeb617b37c01297dc758ff541 *R/PermAlgo-internal.R
+0ad8e9dffe108aa5f5742ba8d62d77bb *R/permalgorithm.R
+cf9f85f8e57c66e868f1e45509b16599 *inst/CITATION
+8e8949f0625b141e30084e2ad671c5d8 *man/PermAlgo-internal.Rd
+3180dfd227b943029cc6e6bcc0ad5d5c *man/PermAlgo-package.Rd
+2cff5f174f6f5b915413fc11bfbcd4e9 *man/permalgorithm.Rd

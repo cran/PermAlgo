@@ -1,7 +1,7 @@
 Package: PermAlgo
 Title: Permutational Algorithm to Simulate Survival Data
-Version: 1.1
-Date: 2015-03-31
+Version: 1.2
+Date: 2022-05-05
 Author: Marie-Pierre Sylvestre, Thad Edens, Todd MacKenzie, Michal
         Abrahamowicz
 Maintainer: Marie-Pierre Sylvestre
@@ -12,7 +12,8 @@ Description: This version of the permutational algorithm generates a
         time-dependent.
 License: GPL-2
 LazyLoad: yes
-Packaged: 2015-04-01 13:15:37 UTC; Dan
+Packaged: 2022-05-06 16:28:05 UTC; 15148
 Repository: CRAN
-Date/Publication: 2015-04-02 00:11:52
+Date/Publication: 2022-05-06 17:00:02 UTC
 NeedsCompilation: no
+Imports: methods
